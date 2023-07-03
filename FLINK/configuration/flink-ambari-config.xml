@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<configuration>
+    <property>
+        <name>flink_download_uri</name>
+        <value>http://bigdata01/flink/flink-1.16.1-bin-scala_2.12.tgz</value>
+        <description>flink download uri</description>
+    </property>
+
+</configuration>
